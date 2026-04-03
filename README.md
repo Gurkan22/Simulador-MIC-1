@@ -351,11 +351,15 @@ Referência: _Structured Computer Organization_ — Andrew S. Tanenbaum, 6ª edi
 ## Autores
 
 Desenvolvido por graduandos em **Ciência da Computação** da **Universidade Federal Fluminense (UFF)**, Brasil, Rio de Janeiro.
-
 Projeto educacional voltado ao ensino de arquitetura de computadores e microprogramação.
 
+
 Brenda Lopes da Silva
+
 Pedro Albuquerque Braga dos Santos
+
 Pedro Lucas Almeida dos Santos
+
 Ramon Fernando Antunes da Silva
+
 ---
